@@ -1,7 +1,4 @@
-a) Assignment Number :  1
-b) Name: Simran Sidhu
-   Student Id: 40011611
-c) Steps to run the code on Visual Studio .
+Steps to run the code on Visual Studio .
 -------------------------------------------------------------------
 1. Open Visual Studio
 2. Create a new project
@@ -24,9 +21,3 @@ c) Steps to run the code on Visual Studio .
 	 in main add statement , before return 0 statment.
 	   system("pause");
 -------------------------------------------------------------------
-d) List of extra feature : 
-	For the implementation of overloading of operator (>>) in  method : istream& operator>>(istream& in, Line& line_obj) of Line.h -
-	The prompt will wait for user input to provide length and string for the line object.
-e) List of know bugs in program : NONE
-f) Note to TA :  Before running the code please change the input_a.txt and input_b.txt path inside the LineListDriver.cpp to their actual location.
-	         Please see the OutputSnapshot.png in the folder for the output of the LineListTestDriver.cpp
