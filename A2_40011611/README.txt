@@ -1,9 +1,6 @@
-a) Assignment Number :  2
-b) Name: Simran Sidhu
-   Student Id: 40011611
-c) Steps to run the code on Visual Studio .
+Steps to run the code on Visual Studio .
 
-Important note A: 
+Important note: 
 To run the editor in continuous session - 
 		please comment below command in the driver class  : 
 			//testLineEd(filename); // normally we'd comment out this line
@@ -48,20 +45,6 @@ However if you want to run the testLineEd method in driver
 	   
 	 
 ======================================================================================
-d) List of extra feature :  
-				1. In case user made no changes in the editing session - the editor will not ask if they want to save the changes.
-				2. Also when a user pressed n to the prompt asking Save change to file xxx.txt ? after this user is asked about the filename to save to and after another confirmation is taken from the user till they
-				dont press y to the prompt Save change to file xxx.txt ? 
-				
-e) List of know bugs in program : NONE
-
-f) Note To TA :
-	1. I had a discussion with the professor about the implementation of the various editor command for runcommand method.
-	And he suggested me have the duplicate code which i wrote in run() but just remove the while (true) loop.
-	He mentioned in the class to add this to README to let you know that i had such a discussion with  him and i am following his suggested solution.
-	2. Please find the output of testLineEd method in the folder Output in my submission folder.
-	
-	Please feel free to contact me in case of any concerns  at : simrantechm@gmail.com
 	
 		
 	
